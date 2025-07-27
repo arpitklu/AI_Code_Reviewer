@@ -1,6 +1,6 @@
 # AI Code Reviewer
 
-![AI Code Reviewer Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png)
+![AI Code Reviewer Banner]([https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftypoapp.io%2Fblog%2Fai-in-the-code-review-process&psig=AOvVaw10mVqhyXj-4J6n5uRFQZ_I&ust=1753726348287000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDW-vPR3Y4DFQAAAAAdAAAAABAV))
 
 ## Overview
 
