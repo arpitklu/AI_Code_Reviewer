@@ -1,0 +1,27 @@
+# check branch:
+git branch
+
+# create branch
+git checkout -b branchName
+
+# to switch to any branch:
+git checkout branchName
+
+# to delete any branch:
+- first go to another branch
+- then:
+git branch -d branchName
+
+# after finishing
+git add .
+git commit -m "feat: "
+git push origin branchName
+
+# go to github and merge pull requests
+
+# then:
+git checkout main
+git pull origin main
+
+
+

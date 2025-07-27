@@ -1,12 +1,10 @@
 # AI Code Reviewer
 
-![AI Code Reviewer Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png)
+![AI Code Reviewer Banner](assets/code_reviewer.png)
 
 ## Overview
 
 **AI Code Reviewer** is a backend service that leverages Google's Gemini AI to review code snippets provided by users. It analyzes your code, suggests corrections, and recommends optimized solutions for better performance and readability.
-
-![AI Reviewing Code Example](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/review_example.png)
 
 ## Features
 
