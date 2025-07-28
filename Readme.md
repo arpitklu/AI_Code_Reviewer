@@ -1,6 +1,6 @@
 # AI Code Reviewer
 
-![AI Code Reviewer Banner](assets/code_reviewer.png)
+![AI Code Reviewer Banner](assets/Frontend_UI_AICodeReviewer.png)
 
 ## Overview
 
