@@ -1,4 +1,8 @@
-# AI Code Reviewer
+# AI Code Reviewer 
+
+![AI Code Reviewer Banner](assets/AICodeReviewer.png)
+
+# AI Code Reviewer Basic Frontend UI Idea
 
 ![AI Code Reviewer Banner](assets/Frontend_UI_AICodeReviewer.png)
 
