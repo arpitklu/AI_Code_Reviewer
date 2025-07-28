@@ -1,4 +1,13 @@
+require('dotenv').config(); 
+
 const { GoogleGenerativeAI } = require("@google/generative-ai");
+
+const API_KEY = process.env.GOOGLE_GEMINI_KEY;
+if (!API_KEY) {
+    console.error("Error: GOOGLE_GEMINI_KEY is not defined in environment variables. Please check your .env file.");
+    // You might want to throw an error here to prevent the server from starting with a missing key
+    // throw new Error("Missing Google Gemini API Key");
+}
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_GEMINI_KEY);
 const model = genAI.getGenerativeModel({ 

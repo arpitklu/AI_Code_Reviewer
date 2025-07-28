@@ -29,6 +29,15 @@ main .left{
   background-color: black;
   position: relative;
 }
+
+.left .code, .code pre , .code pre code{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  border-radius: 0.7rem;
+  background-color: #1c1c1c;
+}
+
 main .right{
   background-color: rgb(68, 68, 68)
 }
