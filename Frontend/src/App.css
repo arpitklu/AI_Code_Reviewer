@@ -39,7 +39,10 @@ main .left{
 }
 
 main .right{
-  background-color: rgb(68, 68, 68)
+  background-color: rgb(68, 68, 68);
+  padding: 1rem 2rem;
+  font-size: 1 rem;
+  overflow: auto;
 }
 main .left .review{
   position: absolute;
